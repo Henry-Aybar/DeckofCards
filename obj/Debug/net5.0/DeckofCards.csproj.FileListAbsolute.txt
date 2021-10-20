@@ -1,0 +1,16 @@
+D:\CodingDojo\CSharp\DeckofCards\obj\Debug\net5.0\DeckofCards.csproj.AssemblyReference.cache
+D:\CodingDojo\CSharp\DeckofCards\obj\Debug\net5.0\DeckofCards.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingDojo\CSharp\DeckofCards\obj\Debug\net5.0\DeckofCards.AssemblyInfoInputs.cache
+D:\CodingDojo\CSharp\DeckofCards\obj\Debug\net5.0\DeckofCards.AssemblyInfo.cs
+D:\CodingDojo\CSharp\DeckofCards\obj\Debug\net5.0\DeckofCards.csproj.CoreCompileInputs.cache
+D:\CodingDojo\CSharp\DeckofCards\bin\Debug\net5.0\DeckofCards.exe
+D:\CodingDojo\CSharp\DeckofCards\bin\Debug\net5.0\DeckofCards.deps.json
+D:\CodingDojo\CSharp\DeckofCards\bin\Debug\net5.0\DeckofCards.runtimeconfig.json
+D:\CodingDojo\CSharp\DeckofCards\bin\Debug\net5.0\DeckofCards.runtimeconfig.dev.json
+D:\CodingDojo\CSharp\DeckofCards\bin\Debug\net5.0\DeckofCards.dll
+D:\CodingDojo\CSharp\DeckofCards\bin\Debug\net5.0\ref\DeckofCards.dll
+D:\CodingDojo\CSharp\DeckofCards\bin\Debug\net5.0\DeckofCards.pdb
+D:\CodingDojo\CSharp\DeckofCards\obj\Debug\net5.0\DeckofCards.dll
+D:\CodingDojo\CSharp\DeckofCards\obj\Debug\net5.0\ref\DeckofCards.dll
+D:\CodingDojo\CSharp\DeckofCards\obj\Debug\net5.0\DeckofCards.pdb
+D:\CodingDojo\CSharp\DeckofCards\obj\Debug\net5.0\DeckofCards.genruntimeconfig.cache
